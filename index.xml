@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>notes</title>
+    <link>https://rlaun.github.io/</link>
+    <description>Recent content on notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rlaun.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toniebox Fun</title>
+      <link>https://rlaun.github.io/posts/tonies/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://rlaun.github.io/posts/tonies/</guid>
+      <description>&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tonies-wiki.revvox.de/docs/how-to-get-started/&#34;&gt;The Basics&lt;/a&gt; explained in a few words (&lt;a href=&#34;https://tonies-wiki.revvox.de/&#34;&gt;RevvoX Wiki&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gt-blog.de/toniebox-hacking-how-to-get-started/&#34;&gt;Getting started&lt;/a&gt; by Gambrius goes in more detail&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DNufX-tss5M&#34;&gt;37C3 - Toniebox Reverse Engineering&lt;/a&gt; - DER Vortrag zum Thema :)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://tonies-wiki.revvox.de/docs/how-to-get-started/&#34;&gt;The Basics&lt;/a&gt; explained in a few words (&lt;a href=&#34;https://tonies-wiki.revvox.de/&#34;&gt;RevvoX Wiki&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gt-blog.de/toniebox-hacking-how-to-get-started/&#34;&gt;Getting started&lt;/a&gt; by Gambrius goes in more detail&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DNufX-tss5M&#34;&gt;37C3 - Toniebox Reverse Engineering&lt;/a&gt; - DER Vortrag zum Thema :)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
